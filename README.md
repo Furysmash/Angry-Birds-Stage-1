@@ -1,2 +1,2 @@
-# Angry-Birds-Stage-1
-Used inheritance concept
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
